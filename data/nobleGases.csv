@@ -1,0 +1,9 @@
+Number,Name,Symbol,amu,Density
+0,None,none,0,1E-10
+2,Helium,He,4.0026,0.18
+10,Neon,Ne,20.1797,0.9
+18,Argon,Ar,39.948,1.78
+36,Krypton,Kr,83.8,3.75
+54,Xenon,Xe,131.293,5.9
+86,Radon,Rn,222,5.5
+97,Nope,-,0,1E-10
